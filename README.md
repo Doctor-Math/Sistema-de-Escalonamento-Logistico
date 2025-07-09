@@ -1,5 +1,7 @@
-
 # 📦 Sistema de Escalonamento Logístico - Armazéns de Hanói
+![Feito em C++](https://img.shields.io/badge/C%2B%2B-Feito%20em-blue)
+
+![Badge Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 
 Simulação de um sistema logístico de entregas de pacotes em uma rede de armazéns interconectados, com foco em transporte, rearmazenamento e entrega eficiente de pacotes utilizando eventos discretos e Programação Orientada a Objetos (POO).
 
